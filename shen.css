@@ -205,7 +205,7 @@ img {
 
 .hero-hook__container {
     padding: .5rem;
-    background-image: url('image/3.jpg');
+    background-image: url('img/3.jpg');
     background-color: var(--white-clr-alt);
     height: 80vh;
     background-position: center;
